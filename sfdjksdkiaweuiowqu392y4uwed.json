@@ -1,0 +1,33 @@
+[
+  {
+    "id": "TELEGRAM_GROUP",
+    "title": "👬 Join telegram group",
+    "content": "You can report any issues and talk your thoughts",
+    "ignorable": false,
+    "links": [
+      {
+        "href": "https://t.me/megaflash.xyz",
+        "text": "Join Now!"
+      }
+    ]
+  },
+  {
+    "id": "FIXED_STYLE_VERSION_UPDATE",
+    "title": "🎉 Visit our site MegaFlash XYZ",
+    "content": "Visit our site for more Freemium Accounts and Tips",
+    "ignorable": true,
+    "links": [
+      {
+        "href": "https://www.google.com/search?q=megaflash+xyz&oq=megaflash+xyz&aqs=chrome..69i57j69i59l2j69i60l3.5928j0j1&sourceid=chrome&ie=UTF-8",
+        "text": "Visit Now!"
+      }
+    ]
+  },
+  {
+    "id": "PREMIUM_PARAPHRASE_MODE_AVALIAVLE",
+    "title": "🎉 Premium Paraphrase Modes are available now!",
+    "content": "Switch on 'Unlock Paraphrase Modes' in settings and Enjoy it!",
+    "ignorable": true,
+    "links": []
+  }
+]
